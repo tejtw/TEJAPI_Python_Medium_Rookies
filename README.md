@@ -10,7 +10,7 @@ Week2：透過python對TEJ API進行資料撈取，並搭配windows內建排程�
 Medium文章連結：https://medium.com/tej-api-金融資料分析/新手上路-二-透過tej-api打造自己的資料庫-390e610293b4 <br>
 
 Week11：TEJ API 文件解說，透過說明文件對TEJ API有更深入的認識<br>
-Medium文章連結： <br>
+Medium文章連結： https://medium.com/tej-api-金融資料分析/新手上路-三-tej-api-文件解說-9c3d149a7668 <br>
 
 ## 備註
 資料庫使用：TEJ E SHOP小資方案-證券交易資料表
