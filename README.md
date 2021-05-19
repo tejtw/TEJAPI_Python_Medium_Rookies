@@ -1,5 +1,5 @@
 # TEJAPI_Python_Medium_Rookies
-Medium文章程式碼-Week 1 & Week2 & Week11
+Medium文章程式碼-Week 1 & Week2 & Week11 & Week12
 
 ## 主題：新手入門
 程式內容說明<br>
