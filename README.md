@@ -13,7 +13,7 @@ Week11：TEJ Python API 文件解說，透過說明文件對TEJ API有更深入�
 Medium文章連結： https://medium.com/tej-api-金融資料分析/新手上路-三-tej-api-文件解說-9c3d149a7668 <br>
 
 Week12：TEJ Rest API 文件解說，透過說明文件對TEJ Rest API有更深入的認識<br>
-Medium文章連結： <br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/新手上路-四-tej-rest-api-使用手冊-8ccfea25fc85 <br>
 
 ## 備註
 資料庫使用：TEJ E SHOP小資方案-證券交易資料表
