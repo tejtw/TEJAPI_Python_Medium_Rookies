@@ -15,5 +15,11 @@ Medium文章連結： https://medium.com/tej-api-金融資料分析/新手上路
 Week12：TEJ Rest API 文件解說，透過說明文件對TEJ Rest API有更深入的認識<br>
 Medium文章連結：https://medium.com/tej-api-金融資料分析/新手上路-四-tej-rest-api-使用手冊-8ccfea25fc85 <br>
 
+財務數據撈取: 示範以不同方式撈取財務數據<br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/新手上路-六-財務數據撈取-8c3984964236 <br>
+
+新手上路7: 示範Rest api與 TEJ API使用差異<br>
+Medium文章連結：待補上 <br>
+
 ## 備註
 資料庫使用：TEJ E SHOP小資方案-證券交易資料表
