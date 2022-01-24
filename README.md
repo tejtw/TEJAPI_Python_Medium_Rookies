@@ -19,7 +19,7 @@ Medium文章連結：https://medium.com/tej-api-金融資料分析/新手上路-
 Medium文章連結：https://medium.com/tej-api-金融資料分析/新手上路-六-財務數據撈取-8c3984964236 <br>
 
 新手上路7: 示範Rest api與 TEJ API使用差異<br>
-Medium文章連結：待補上 <br>
+Medium文章連結：https://medium.com/tej-api-金融資料分析/新手上路-七-rest-api-與-tej-api-使用差異-1e27c2d636b2 <br>
 
 ## 備註
 資料庫使用：TEJ E SHOP小資方案-證券交易資料表
